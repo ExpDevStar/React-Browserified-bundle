@@ -1,0 +1,21 @@
+{
+  "name": "react-runtime",
+  "version": "0.0.1",
+  "description": "react-runtime =============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/spikebrehm/react-runtime.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spikebrehm/react-runtime/issues"
+  },
+  "dependencies": {
+    "react-tools": "~0.5.1"
+  }
+}
